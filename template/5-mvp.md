@@ -3,6 +3,8 @@
 ## Personas and Scenarios
 
 *Who are the target personas for this product?*
+The target personas for this product would be tourists and locals who want to explore a city by foot. 
+They would be interested in finding walking itineraries around interesting spots in a city.
 
 *Which is the key persona?*
 

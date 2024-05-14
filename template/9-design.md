@@ -13,10 +13,14 @@
 ## Data Model
 
 *What data are you collecting / managing?*
+The data we are collecting are :
+- User data : name, surname, email, profile picture and date of birth, friends list
+- Itineraries data 
 
 *How is it organised?*
 
 *Where is it stored?*
+All those data are stored in a Firestore database.
 
 *How is it shared/copied/cached?*
 
