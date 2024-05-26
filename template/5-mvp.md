@@ -31,6 +31,7 @@ TODO : maybe add a user story from the point of view of a city manager or a loca
 *Identify and prioritise the key features required.*
 
 The key features required for the MVP are:
+
 - Path discovery: users can find walking itineraries around interesting spots in a city and follow them
 - Path recording: users can record their own paths and add points of interest, description and photos
 - Path sharing: users can share their recorded paths with friends or the public
