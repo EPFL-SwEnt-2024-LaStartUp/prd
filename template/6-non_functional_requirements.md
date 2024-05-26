@@ -12,6 +12,7 @@ It also addresses the transfer of personal data outside the EU and EEA areas.
 *Which privacy features do you need from the phone?*
 
 The privacy features needed from the phone are:
+
 - Location services: to record and suggest walking paths
 - Camera: to take pictures of the spots of interest
 - Storage: to download the saved paths to make them available offline

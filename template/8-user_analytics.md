@@ -4,6 +4,7 @@
 
 *Which are the key metrics?*
 The key metrics are:
+
 - The number of users
 - The number of itineraries created
 - The number of itineraries followed
