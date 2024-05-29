@@ -4,6 +4,9 @@
 
 *List the key libraries, languages, components used by the MVP.*
 
+The key libraries, languages, components used by the MVP are:
+- Kotlin
+
 *If applicable, describe essential screens.*
 
 ## Backend
@@ -13,13 +16,18 @@
 ## Data Model
 
 *What data are you collecting / managing?*
-The data we are collecting are :
-- User data : name, surname, email, profile picture and date of birth, friends list
-- Itineraries data 
+
+For this application, we are collecting and managing the following data:
+- User data : name, surname, email, profile picture, date of birth, list of itineraries created, list of followers and following
+- Itineraries data : name, description, date, author, list of spots of interest, photos, trending score
 
 *How is it organised?*
 
+The user data are organised in a user collection 
+The itineraries data are organised in an itinerary collection
+
 *Where is it stored?*
+
 All those data are stored in a Firestore database.
 
 *How is it shared/copied/cached?*

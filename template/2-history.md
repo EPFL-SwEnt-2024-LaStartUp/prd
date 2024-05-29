@@ -5,7 +5,9 @@
 *Describe the V1 POC as planned by Sprint10.*
 
 The v1 Proof of Concept (PoC) for TripAdvisor build during the semester is a mobile application that allow users to create walking itineraries around interesting spots in a city. 
-The app offers a social and interactive platform where users can record their own paths, add points of interest, and share their recorded paths with their friends or the public. 
+The application offers a social and interactive platform where users can record their own paths, add points of interest, and share their recorded paths with other users. 
+It also proposes a following system to enable users to connect with their friends and share their paths with them.
+
 The PoC was designed to enhance the experience of visiting a city by providing users with pleasant walking itineraries around spots of interest.
 
 
