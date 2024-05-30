@@ -2,7 +2,7 @@
 
 *Describe the value proposition and argue that it is:*
 
-TripTracker offers a compelling value proposition : it enable users to make the most of their trips 
+TripTracker offers a compelling value proposition : it enables users to make the most of their trips 
 by providing enjoyable walking itineraries around interesting spots in a city. The app combines 
 navigation, social interaction, and user-generated content to create a holistic travel companion 
 that enhances the way people explore new destinations. By offering a unique combination of features, 
@@ -12,7 +12,7 @@ relevant to the needs of modern travelers.
 
 *1. Easy to communicate*
 
-The value proposition of TripTracker is straight forward and easy to communicate:it helps users find 
+The value proposition of TripTracker is straight forward and easy to communicate: it helps users find 
 walking itineraries around interesting spots in a city, while enabling them to share their 
 experiences with friends.
 
@@ -21,7 +21,7 @@ experiences with friends.
 TripTracker's value proposition is defensible because it combines several unique features into one 
 platform and no competitor offers the same combination of functionalities. While other applications 
 may provide navigation or points of interest, or social sharing, TripTracker integrates all these 
-features in a unique easy to use application.
+features in a unique and easy to use application.
 
 Additionally, by continuously integrating user feedback and improving the app's features, 
 TripTracker can maintain its competitive edge and ensure long-term user engagement.
@@ -34,3 +34,8 @@ attractions, and this without any overhead. TripTracker addresses this need by o
 walking paths and the ability to share personal experiences with a community dedicated to exploring.
 Furthermore, with the trending functionalities, users can discover new paths and stay updated with 
 the latest routes, making the app a valuable tool for both tourists and locals.
+
+TODO: usually when looking for paths, applications propose straight forward paths, not necessarily
+pleasant. 
+
+TODO: add a part about the ranking system

@@ -15,7 +15,7 @@ bring more visibility to their city.
 *Which is the key persona?*
 
 The key persona for the TripTracker application is the user that will follow paths and especially 
-tourists. They are the ones that are more susceptible to look for pleasant walking itineraries and 
+tourists. They are the ones who are more likely to look for pleasant walking itineraries and 
 local places of interest when visiting a city they have never been to before. They are also the ones
 that will be more likely to share their experiences with friends and family to easily keep them
 updated on their trips or even just to keep a memory of their trips.
@@ -24,7 +24,7 @@ updated on their trips or even just to keep a memory of their trips.
 *High-level scenarios to adopt, use and share the product.*
 
 - Adopt: Tourists download the TripTracker application on their phone before visiting a new city.
-They create an account and starts looking through recommended walking paths to follow during their 
+They create an account and start browsing recommended walking paths to follow during their 
 trip. They can also save the paths they like to easily find them later in their favorites and even
 download them for offline access.
 We contact professionals such as city managers or local business owners to promote the application
@@ -32,8 +32,8 @@ by explaining all the benefits they could get from using it to attract more tour
 They try the application and see that it could be a great way to easily promote their city and their 
 businesses and keep using it, making the application more complete and attractive for users.
 
-- Use: During their trip, the tourist uses the application to follow walking paths around the city 
-and through the different spots of interest. They can also record their own paths and add points of
+- Use: During their trip, the tourists use the application to follow walking paths around the city 
+and through the various spots of interest. They can also record their own paths and add points of
 interest, description and photos to share with other users, and especially their friends.
 The professionals can use the application to create and share walking itineraries around their 
 businesses or the city to attract more tourists and locals.
@@ -55,7 +55,7 @@ make the most of my trip.
 - As a friend or a family member of travelers, I want to see the walking paths they have recorded,
 so that I can easily stay updated on their trips.
 
-- As a local, I want to share my favorite walking paths with friends, so that other can enjoy them 
+- As a local, I want to share my favorite walking paths with friends, so that others can enjoy them 
 as well.
 
 - As a city manager, I want to promote my city by creating and sharing walking itineraries around
@@ -79,6 +79,8 @@ The path discovery feature is essential as it is the main functionality of the a
 is to provide users with enjoyable walking itineraries around interesting spots in a city without
 having to search for hours for the best paths, and ensuring they make the most of their trips.
 
+TODO: add a part about the ranking system + global paths and friends paths
+
 - **Path recording and sharing:**
 Users can record their own paths and add points of interest, description and photos as they walk. 
 They can then decide whether they want to share their recorded paths with all the users of the
@@ -89,6 +91,8 @@ same path again if they wish to revisit their favorite spots. The path sharing i
 ensures the application features a lot of possible paths to follow and that new paths are regularly
 added. Without this feature, the application would be just a simple navigation application and paths 
 would not be user-generated, removing the community aspect that is a strength of the application.
+
+TODO: better explain the record and the spot adding
 
 - **Offline access:** 
 Users can download the paths they like by adding them to their favorites. This way they can follow 
@@ -104,6 +108,8 @@ The social interaction feature is important as it adds a community aspect to the
 allows users to share their experiences with friends and family and discover new paths created by
 them. By allowing users to add other users paths to their favorites, the application creates even
 more interactions between users and ensures that the application is used by a lot of people.
+
+TODO: add a part about the profile creation + google sign in
 
   
 ## Success Criteria
