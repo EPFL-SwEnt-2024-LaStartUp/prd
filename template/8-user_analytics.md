@@ -50,8 +50,8 @@ To evaluate the success of the application, we will consider the following crite
 
 - **User penetration:** the number of users that have downloaded the application should be of at 
 least 1000 users in the first month after the launch of the application, and should increase to 
-100,000 users in the first 6 months. This will help us understand how many users are interested in the
-app and how well it is performing in terms of user acquisition.
+100,000 users in the first 6 months. This will help us understand how many users are interested in 
+the app and how well it is performing in terms of user acquisition.
 
 - **User engagement:** the number of users and the number of itineraries created and followed on a 
 monthly basis should be of around 20% of the total number of users. This will help us understand how

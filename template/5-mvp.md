@@ -127,12 +127,18 @@ To evaluate the success of the MVP, we will consider the following criteria:
 - User engagement: the number of users and the number of itineraries created and followed
 - User satisfaction: the feedback from users on the application and the note on the app store
 
+TODO: Add more details on the success criteria
+
 
 *If applicable, progress in discussions with ecosystem partners / investors / customers.*
+
+TODO: implement this part
 
 ## Features Outside the Scope
 
 *The MVP must be viable and minimal.*
 *Which features don’t belong in it.*
 *How should these be eventually integrated and in what sequence.*
+
+TODO: implement this part
 

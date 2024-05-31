@@ -13,6 +13,8 @@ to connect with their friends and share their paths with them.
 The PoC was designed to enhance the experience of visiting a city by providing users with pleasant 
 walking itineraries around spots of interest.
 
+TODO: implement this part
+
 
 *What did you learn?*
 
@@ -21,6 +23,8 @@ From the V1 Proof of Concept we learned several valuable lessons.
 - importance of user feedback
 - performance optimization
 - importance of a good ui
+
+TODO: implement this part
 
 
 *What is missing to bridge from PoC to MVP?*
@@ -40,6 +44,8 @@ On a more technical side, the application could be improved by adding new ways t
 also need to take the security and privacy of the various data generated in the application more
 seriously. The performance of the application could also be improved by optimizing the way the
 paths are stored and retrieved from the database.
+
+TODO: add more details on what is missing to bridge from PoC to MVP
 
 
 
