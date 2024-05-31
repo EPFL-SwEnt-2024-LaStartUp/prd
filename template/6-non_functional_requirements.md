@@ -11,6 +11,7 @@ It also addresses the transfer of personal data outside the EU and EEA areas.
 *What are your internal policies?*
 
 Our internal policies are the following:
+
 - Data collection: we **do not collect** personal data unless explicit consent is given by the user.
 - Data storage: personal data is stored using very secure encryption algorithms and access control measures.
 - Data retention: personal data is retained only as long as necessary for the purposes for which it was collected, in compliance with legal obligations.
@@ -34,6 +35,7 @@ The privacy features needed from the phone are:
 *What kind of traffic patterns do you expect to see?*
 
 We expect traffic patterns to vary based on the time of year, with notable peaks during certain periods. However, we can also define general usage patterns such as:
+
 - Daily active users: we expect consistent daily activity from users who use the app for their regular travels and exploration.
 - Weekly active users: peaks in activity during weekends when users are more likely to explore new places or plan short trips.
 - Monthly active users: steady growth with peaks around monthly special events, local festivals, and holidays.
@@ -41,6 +43,7 @@ We expect traffic patterns to vary based on the time of year, with notable peaks
 *Are there known periods of bursty traffic that the MVP must be designed to support?*
 
 The MVP must be designed to support bursty traffic during:
+
 - The summer months, due to higher tourism activity.
 - The holidays, such as Christmas, New Year, October vacation, and other public holidays, as there would be higher usage of the app and the application must be able to handle this.
 - Special events: There are also some period of heavy traffic that can occur outside of holidays due to specific events in a given city, such as festivals, concerts, or sporting events.
