@@ -33,9 +33,11 @@ experiences. They are looking for ways to find hidden gems and local spots beyon
 attractions, and this without any overhead. TripTracker addresses this need by offering curated 
 walking paths and the ability to share personal experiences with a community dedicated to exploring.
 Furthermore, with the trending functionalities, users can discover new paths and stay updated with 
-the latest routes, making the app a valuable tool for both tourists and locals.
-
-TODO: usually when looking for paths, applications propose straight forward paths, not necessarily
-pleasant. 
-
-TODO: add a part about the ranking system
+the latest routes, making the app a valuable tool for both tourists and locals. Moreover, usually
+when looking for paths, applications propose straight forward paths and they often are unpleasant
+as they do not take advantage of the potential pedestrian areas. On top of that, the paths that the 
+TripTracker application proposes to its users have a ranking system: the flame count of a path is
+computed based on the number of users that look at the path, the number of time the path is added to
+the favorites and the number of time the path is started. When on the main screen of the application,
+the paths are sorted by their flame count, so the most popular paths are at the top of the list. 
+This way, users can easily find the most popular paths and the most pleasant ones.

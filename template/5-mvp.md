@@ -77,22 +77,25 @@ Users can easily find walking itineraries around interesting spots around them o
 place.
 The path discovery feature is essential as it is the main functionality of the application. The goal
 is to provide users with enjoyable walking itineraries around interesting spots in a city without
-having to search for hours for the best paths, and ensuring they make the most of their trips.
-
-TODO: add a part about the ranking system + global paths and friends paths
+having to search for hours for the best paths, and ensuring they make the most of their trips. On the
+main screen of the application, the paths are sorted by their flame count, so the most popular paths
+are at the top and can easily be found by users. This way, users can easily follow the most popular
+paths and the most pleasant ones. Users also have the possibility to discover the paths published
+their friends to stay updated with their latest routes.
 
 - **Path recording and sharing:**
-Users can record their own paths and add points of interest, description and photos as they walk. 
-They can then decide whether they want to share their recorded paths with all the users of the
-application, just with their friends or keep them private.
+Users can record their own paths and add points of interest, description and photos as they walk.
+They just have to start recording the itinerary when they start walking, and can easily add points
+of interest with a description and photos on the way. Once they are done recording the path, they
+can add a title and a description to it and publish it on the application. Users can then decide 
+whether they want to share their recorded paths with all the users of the application, just with 
+their friends or keep them private by going to the settings and selecting the desired option.
 The path recording is important as it is what enables users to keep a memory of their trips,
 making it enjoyable to look back on their experiences. Additionally, it allows users to follow the
 same path again if they wish to revisit their favorite spots. The path sharing is important as it
 ensures the application features a lot of possible paths to follow and that new paths are regularly
 added. Without this feature, the application would be just a simple navigation application and paths 
 would not be user-generated, removing the community aspect that is a strength of the application.
-
-TODO: better explain the record and the spot adding
 
 - **Offline access:** 
 Users can download the paths they like by adding them to their favorites. This way they can follow 
@@ -107,9 +110,11 @@ have recorded.
 The social interaction feature is important as it adds a community aspect to the application. It
 allows users to share their experiences with friends and family and discover new paths created by
 them. By allowing users to add other users paths to their favorites, the application creates even
-more interactions between users and ensures that the application is used by a lot of people.
-
-TODO: add a part about the profile creation + google sign in
+more interactions between users and ensures that the application is used by a lot of people. To use
+TripTracker, users can login with their Google account and will then be able to create a personalised
+profile with a profile picture, a username, and diverse other options. They can then look up their 
+friends' profiles and start following them. By connecting with their friends, users can easily stay 
+updated with the latest paths created by their friends and share their own paths with them.
 
   
 ## Success Criteria
