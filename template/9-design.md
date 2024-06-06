@@ -80,10 +80,13 @@ Transitioning TripTracker to a production-ready application requires improving s
 
 
 ## Infrastructure and Deployment
-TODO
 *How is the application developed, tested and deployed?*
 
 *Any special infrastructure requirements.*
+
+Our database infrastructure will consist of two Firestore databases. This is needed if we would like to do some changes to the data model or the database in itself in future updates. We will need a development database in which we can do tests and modify the data classes. Another database will be in charge of supporting the normal working flow of the app for users. Modifications to the user database will need to be applied in scheduled maintenances during which people will not be able to use the app. These maintenances should be scheduled at times where the app usage is low.
+
+We will use Firebase to deploy our backend and to link it to our application. We will need to make sure that our applications is not rate limited and Firebase will autmoatically allocate the right amount of resources. 
 
 ## Test Plan
 
