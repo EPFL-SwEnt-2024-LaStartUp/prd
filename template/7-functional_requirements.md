@@ -11,7 +11,7 @@ The key features of the MVP are:
 - Follow an itinerary : the user can follow an itinerary created by another user or by himself/herself
 - Follow a user : the user can follow another user and see the itineraries created by this user
 
-*Include appropriate architectural diagrams.*
+
 ![Architecture Diagram](./architecture_diagram.png)
 
 *Describe key internal functionality.*

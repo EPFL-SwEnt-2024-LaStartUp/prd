@@ -80,7 +80,7 @@ Transitioning TripTracker to a production-ready application requires improving s
 
 
 ## Infrastructure and Deployment
-
+TODO
 *How is the application developed, tested and deployed?*
 
 *Any special infrastructure requirements.*
