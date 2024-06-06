@@ -24,10 +24,14 @@ Users can save the paths they like to easily find them later in their favorites.
 added to this folder are automatically downloaded to enable offline access. This way, users can view 
 the paths they have saved offline and enjoy their trip without worrying about an internet connection.
 
+In the future, our application will eliminate the need for traditional paper travel guides. With TripTracker, discovering a new city becomes effortless. Simply pull out your phone, launch the app, and instantly receive personalized recommendations for the best spots around you, tailored to your interests. No preparation needed just immediate, curated advice for the activities you love. 
 
-TODO: Add what features might be added in the future? Or in the history part when talking about what 
-is missing to bridge from PoC to MVP?
+Every notable point of interest in a city will be highlighted with user-contributed photos and enriched with detailed descriptions. You'll be able to learn about the architecture, history, and fascinating facts, making your exploration both informative and engaging. But points of interest aren't limited to monuments. You'll also find information about the best bars in town, top local snacks, and more, complete with ratings to ensure you don't miss out on anything.
 
+TripTracker will revolutionize the way you explore a city. Whether you're looking for the best traditional meals, top-rated bars, nighttime adventures, or the perfect sunrise or sunset spots, TripTracker has you covered. Every path is tailored to your interests, and all the information you need is right at your fingertips, ready to guide you with a simple tap.
+
+<!-- TODO: Add what features might be added in the future? Or in the history part when talking about what 
+is missing to bridge from PoC to MVP? -->
 *Maximum: 2 pages*
 *What is this project about?*
 *Describe succinctly and precisely its purpose.*
