@@ -13,19 +13,14 @@ to connect with their friends and share their paths with them.
 The PoC was designed to enhance the experience of visiting a city by providing users with pleasant 
 walking itineraries around spots of interest.
 
-TODO: implement this part
-
-
 *What did you learn?*
 
 From the V1 Proof of Concept we learned several valuable lessons.
-- security and privacy
-- importance of user feedback
-- performance optimization
-- importance of a good ui
 
-TODO: implement this part
-
+- Security and Privacy are crucial in an application. Triptracker uses some sensitive information such as email adress, surname and last name. These informations need to be kept safely in order to raise trust in application which is a crucial factor of attractivity.
+- In the same idea of boosting attractivity, it is a need for us to listen to our user feedback on a regular basis. This feedback then needs to be discussed and adressed with pertinent updates that address the issues raised in the user feedbacks.
+- An app that is not responsive and that feels clunky will have a terrible retention rate of users. In order to make sure that users keep using TripTracker, the app needs to be well optimized in order to present low response times on communications with the database in order to reduce loading times. It also needs tu use a responsive UI that presents up-to-date and reliable information.
+- The user interface needs to also be fluid, with transitions to make the navigation nicer. It needs a well structured color scheme that helps hierarchize information. That color scheme should be consistend between the different screens to make it intuitive for the user. The UI needs to adapt to the settings of the user's phone (text size or dark mode) and to different screen sizes in order to reach as much users as possible.
 
 *What is missing to bridge from PoC to MVP?*
 
@@ -44,8 +39,6 @@ On a more technical side, the application could be improved by adding new ways t
 also need to take the security and privacy of the various data generated in the application more
 seriously. The performance of the application could also be improved by optimizing the way the
 paths are stored and retrieved from the database.
-
-TODO: add more details on what is missing to bridge from PoC to MVP
 
 
 
