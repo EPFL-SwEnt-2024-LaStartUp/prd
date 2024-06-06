@@ -54,10 +54,11 @@ All those data are stored in a Firestore database.
 
 
 ## Security Considerations
+TODO
 Since the app
 
 ## Infrastructure and Deployment
-
+TODO
 *How is the application developed, tested and deployed?*
 
 *Any special infrastructure requirements.*
