@@ -139,44 +139,35 @@ and ready for real-world use.
 
 
 ## Infrastructure and Deployment
-*How is the application developed, tested and deployed?*
 
-TODO
+Our database infrastructure will consist of two Firestore databases. This is needed if we want to 
+make changes to the data model or the database itself in future updates. We will require a
+development database for conducting tests and modify the data classes. Another database will handle
+the normal workflow of the app for users. Modifications to the user database will need to be applied 
+during scheduled maintenances periods, during which people will not be able to use the app. 
+These maintenances should be scheduled during times of low app usage.
 
-*Any special infrastructure requirements.*
-
-Our database infrastructure will consist of two Firestore databases. This is needed if we would like 
-to do some changes to the data model or the database in itself in future updates. We will need a 
-development database in which we can do tests and modify the data classes. Another database will be 
-in charge of supporting the normal working flow of the app for users. Modifications to the user 
-database will need to be applied in scheduled maintenances during which people will not be able to 
-use the app. These maintenances should be scheduled at times where the app usage is low.
-
-We will use Firebase to deploy our backend and to link it to our application. We will need to make 
-sure that our applications is not rate limited and Firebase will automatically allocate the right 
+We will use Firebase to deploy our backend and to link it to our application. We will need to ensure 
+that our applications is not rate-limited, and Firebase will automatically allocate the appropriate 
 amount of resources. 
 
 ## Test Plan
 
 *How is the application developed, tested and deployed?*
-
-TODO
-
 *Any special infrastructure requirements.*
 
-In order to make sure that our application meets the highest standars we will use different methods 
-of testing throughout the making of the app :
+In order to ensure that our application meets the highest standards, we will use different methods 
+of testing throughout the development of the app :
 
-**Unit Tests**  We will first need to verify the functionality of individual components or units of 
-the application. Each unit is tested in isolation to ensure it works as expected.
+- **Unit Tests:**  We will first verify the functionality of individual components or units of the 
+application. Each component will be tested in isolation to ensure it works as expected.
 
-**Integration Tests**  We will need to ensure that different modules and services of the application 
-work together correctly. This includes verifying the integration between the application and 
-Firebase services.
+- **Integration Tests:**  We will ensure that different modules and services of the application work 
+together correctly. This includes verifying the integration between the application and Firebase 
+services.
 
-**Performance Testing**  We will need to assess the responsiveness, stability, scalability, and 
-resource usage of the application under different conditions. This includes stress testing the app 
-in case of high usage at the occasion of specific events for example or simply when around areas 
-where a lot of trips can be fetched. The goal is to keep the fetch latency low and to make sure that 
-we do not create huge amounts of requests to the firebase in some situations.
-
+- **Performance Testing**  We will assess the responsiveness, stability, scalability, and resource 
+usage of the application under different conditions. This includes stress testing the app during
+high usage periods, such as specific events or in areas where a large number of trips can be fetched. 
+The goal is to keep the fetch latency low and to ensure that we do not generate a large number of 
+requests to Firebase in some situations.
