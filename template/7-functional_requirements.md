@@ -1,6 +1,6 @@
 # Functional Requirements
 
-### User registration and login
+## User registration and login
 
 #### Motivation
 
@@ -21,7 +21,7 @@ can be uniquely identified by their Google account email address. Therefore, a u
 their email address once they have registered. To log out of their account, users can use a button 
 in the settings section of the application.
 
-### Create an itinerary
+## Create an itinerary
 
 #### Motivation
 
@@ -43,7 +43,7 @@ recommendations. The itineraries are securely stored in our Firebase database, e
 easily retrievable and preserved for future reference. This structured approach facilitates 
 effective documentation and sharing of travel experiences, enhancing the overall user experience.
 
-### Follow an itinerary
+## Follow an itinerary
 
 #### Motivation
 
@@ -65,7 +65,7 @@ users to explore new destinations based on community insights. Within the applic
 favorite an itinerary to save it for future reference, and when they want to see their favorite 
 itineraries, they can access them in their profile.
 
-### Follow a user
+## Follow a user
 
 #### Motivation
 
