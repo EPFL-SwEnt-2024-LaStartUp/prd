@@ -39,8 +39,6 @@ user are up-to-date and reliable.
 
 ## Data Model
 
-*What data are you collecting / managing?*
-
 With the TripTracker application, we collect and manage various types of data to provide users with
 a seamless and personalized experience. The data collected and managed by the application includes:
 
@@ -62,18 +60,17 @@ Firebase when a user is logged in.
 All those data are integral to the application and must be securely handled to prevent any 
 information leaks or hacks.
 
-*How is it organised?*
 
 Currently the data is stored on Firestore. There are two collections for the textual fields : 
+
 - The user data are organised in a user collection 
 - The itineraries data are organised in an itinerary collection
 
 The pictures and videos are stored in the Firestore storage : 
+
 - The profile pictures are stored in a specific pin collection
 - The pin pictures are stored in a specific pictures collection
 
-
-*Where is it stored?*
 
 The data collected by TripTracker are stored in the following locations:
 
@@ -96,7 +93,6 @@ seamless retrieval and display.
 All stored data is protected by stringent security measures, including encryption in transit and at
 rest with the help of the Firebase functionalities.
 
-*How is it shared/copied/cached?*
 
 Currently, the data is stored on Firestore and retrieved in real-time by all running instances of 
 the TripTracker app. This ensures that users always have the most up-to-date information. However, 
