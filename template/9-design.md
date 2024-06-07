@@ -153,9 +153,6 @@ amount of resources.
 
 ## Test Plan
 
-*How is the application developed, tested and deployed?*
-*Any special infrastructure requirements.*
-
 In order to ensure that our application meets the highest standards, we will use different methods 
 of testing throughout the development of the app :
 
