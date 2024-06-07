@@ -3,8 +3,12 @@
 
 ## Execution Roadmap
 
-
-The MVP development process is structured into 10 sprints, each lasting one week. Key tasks include project setup, development, testing, feedback incorporation, product pitching & advertising, and feedback collection & response. Additionally, we have identified four major milestones to help our team of seven assess progress. Each team member rotates through various roles, including UI/UX designer (using Figma), frontend developer, backend developer, DevOps architect, software tester, and marketing communications coordinator.
+The MVP development process is structured into 10 sprints, each lasting one week. Key tasks include 
+project setup, development, testing, feedback incorporation, product pitching & advertising, and 
+feedback collection & response. Additionally, we have identified four major milestones to help our 
+team of seven assess progress. Each team member rotates through various roles, including UI/UX 
+designer (using Figma), frontend developer, backend developer, DevOps architect, software tester, 
+and marketing communications coordinator.
 
 ### Milestone 1
 
@@ -12,10 +16,12 @@ Project Technical Setup and App Design Prototype
 
 - GitHub and Firebase setup.
 - Figma mockups and user flow documents.
-- Collection of the material3 UI elements that can serve as building blocks: text fields, buttons, menu bars, navigation bars, etc.
-- Google authentification & Google maps integration.
+- Collection of the material3 UI elements that can serve as building blocks: text fields, buttons, 
+menu bars, navigation bars, etc.
+- Google authentication & Google maps integration.
 - First version of the four main screens: Home, Maps, Record & Profile.
-- Development of a major epic: the Record feature with the possibility to start a path record, to have your current path displaying on the map, and to save it with a description.
+- Development of a major epic: the Record feature with the possibility to start a path record, to 
+have your current path displaying on the map, and to save it with a description.
 
 
 | **Sprint/Week Number** | **Objective** | **Outcomes** |
@@ -28,7 +34,8 @@ Project Technical Setup and App Design Prototype
 
 Advancements on Core Feature
 
-- Development of a major epic: the Profile feature with the possibility to follow your friends, to have favorites and your own path, and to change your profile information or parameters.
+- Development of a major epic: the Profile feature with the possibility to follow your friends, to 
+have favorites and your own path, and to change your profile information or parameters.
 - Continued integration and unit testing.
 
 | **Sprint/Week Number** | **Objective** | **Outcomes** |
@@ -64,7 +71,10 @@ Launch and iterative feature development for Product-Market Fit (PMF)
 | Week 10 | Full Deployment | Final tweaks and polishing. Launch marketing campaign (video and infographic elements), engage with press with a live keynote demonstrating the app to get new users. |
 
 ## Hardware Requirements during Development
-The members from the TripTracker project develop, test, and execute the project on their own laptops. A minimum of 16GB of RAM (to run Android Studio), 50GB of available storage (Android Studio, Android SDK, emulator system images, etc.) on SSD or better, and WiFi are required. An Android phone capable of demo-ing the team's application is also useful for on-the-go testing and presentation purposes.
+The members from the TripTracker project develop, test, and execute the project on their own laptops. 
+A minimum of 16GB of RAM (to run Android Studio), 50GB of available storage (Android Studio, Android 
+SDK, emulator system images, etc.) on SSD or better, and WiFi are required. An Android phone capable 
+of demo-ing the team's application is also useful for on-the-go testing and presentation purposes.
 
 
 *What’s the overall schedule you’re working towards?*
