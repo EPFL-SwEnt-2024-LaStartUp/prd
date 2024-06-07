@@ -113,41 +113,69 @@ have saved offline and enjoy their trip without worrying about having an interne
 
 ### User Adoption and Engagement
 
-- Initial User Onboarding: Target to onboard at least 1% of the city population within the first month of launch (~1500 users in Lausanne).
-- Daily and Monthly Active Users: Achieve a Daily Active User (DAU) rate of 10% (150 users) of the onboarded users and a Monthly Active User (MAU) rate of 60% (900 users) in the same month.
-- User Retention: Achieve a retention rate of at least 50% (750 users) in the following month.
+- **Initial User Onboarding:** Target to onboard at least 1% of the city population within the first 
+month of launch (~1500 users in Lausanne).
+- **Daily and Monthly Active Users:** Achieve a Daily Active User (DAU) rate of 10% (150 users) of 
+the onboarded users and a Monthly Active User (MAU) rate of 60% (900 users) in the same month.
+- **User Retention:** Achieve a retention rate of at least 50% (750 users) in the following month.
 
 
 ### Feedback and Satisfaction
 
-- App Stores Rating: Achieve a minimum average rating of 4.2 out of 5 stars on app stores within the first two months of launch.
-- User Feedback: Conduct monthly surveys to gather user feedback, aiming for at least 83% positive feedback regarding app usefulness and user experience.
-- Feature Implementation: Implement at least 50% of the user-requested features or improvements within two weeks following each feedback survey. Promptly responding to user requests will demonstrate our commitment to enhancing the user experience and build trust in our platform.
+- **App Stores Rating:** Achieve a minimum average rating of 4.2 out of 5 stars on app stores within 
+the first two months of launch.
+- **User Feedback:** Conduct monthly surveys to gather user feedback, aiming for at least 83% 
+positive feedback regarding app usefulness and user experience.
+- **Feature Implementation:** Implement at least 50% of the user-requested features or improvements 
+within two weeks following each feedback survey. Promptly responding to user requests will 
+demonstrate our commitment to enhancing the user experience and build trust in our platform.
 
 ### Commitment from City Officials and Local Businesses
 
-- Engagement with City Officials: Engage with city officials and local businesses to promote the application and discuss potential collaborations.
-- Partnerships: Establish partnerships with tourist offices, museums, and other local businesses to create and share walking itineraries.
-- Visibility and Promotion: Ensure that city managers and local business owners see the benefits of using TripTracker to attract more tourists and locals, thereby increasing the app's visibility and attractiveness.
+- **Engagement with City Officials:** Engage with city officials and local businesses to promote the 
+application and discuss potential collaborations.
+- **Partnerships:** Establish partnerships with tourist offices, museums, and other local businesses 
+to create and share walking itineraries.
+- **Visibility and Promotion:** Ensure that city managers and local business owners see the benefits 
+of using TripTracker to attract more tourists and locals, thereby increasing the app's visibility 
+and attractiveness.
 
 ### Platform Performance
 
-- System Reliability: Ensure that the application operates with a minimum of 99.5% uptime.
-Performance Metrics: Track and maintain fast loading times and smooth navigation within the app to provide a seamless user experience.
-- Bug Fixes and Updates: Address any reported bugs and release updates promptly to ensure continuous improvement and stability of the platform.
+- **System Reliability:** Ensure that the application operates with a minimum of 99.5% uptime.
+- **Performance Metrics:** Track and maintain fast loading times and smooth navigation within the 
+app to provide a seamless user experience.
+- **Bug Fixes and Updates:** Address any reported bugs and release updates promptly to ensure 
+continuous improvement and stability of the platform.
 
 ### Progress with Ecosystem Partners
 
-- Initial Discussions: Begin discussions with potential ecosystem partners, investors, and customers within the first three months of launch.
-- Partnership Agreements: Secure at least two partnership agreements with local businesses or city officials within the first six months.
-- Investment Opportunities: Explore investment opportunities to fund further development and expansion of the app.
+- **Initial Discussions:** Begin discussions with potential ecosystem partners, investors, and 
+customers within the first three months of launch.
+- **Partnership Agreements:** Secure at least two partnership agreements with local businesses or 
+city officials within the first six months.
+- **Investment Opportunities:** Explore investment opportunities to fund further development and 
+expansion of the app.
+
 
 ## Features Outside the Scope
 
 ### Exclusion of Advanced Augmented Reality (AR) Integration
-The MVP of TripTracker will not include advanced AR features such as live navigation overlays or augmented reality tours. Developing and integrating AR functionality requires significant resources and advanced technical expertise, which could delay the launch. Additionally, AR features might necessitate specific hardware capabilities, potentially limiting the app's compatibility across different devices. These features will be considered for future updates once the basic functionalities have been successfully deployed and user feedback has been gathered.
+
+The MVP of TripTracker will not include advanced AR features such as live navigation overlays or 
+augmented reality tours. Developing and integrating AR functionality requires significant resources 
+and advanced technical expertise, which could delay the launch. Additionally, AR features might 
+necessitate specific hardware capabilities, potentially limiting the app's compatibility across 
+different devices. These features will be considered for future updates once the basic 
+functionalities have been successfully deployed and user feedback has been gathered.
 
 ### Exclusion of In-App Messaging System
 
-An in-app messaging system for users to communicate directly within the app will be excluded from the MVP. Developing and maintaining a messaging system involves significant complexities such as real-time communication infrastructure, message encryption, moderation tools, and ensuring data privacy compliance. These features would require substantial resources and could introduce potential security vulnerabilities. Instead, the focus will be on fostering community interaction through existing social sharing and commenting features. An in-app messaging system can be considered for future updates once the core functionalities are stable and user engagement is high.
+An in-app messaging system for users to communicate directly within the app will be excluded from 
+the MVP. Developing and maintaining a messaging system involves significant complexities such as 
+real-time communication infrastructure, message encryption, moderation tools, and ensuring data 
+privacy compliance. These features would require substantial resources and could introduce potential 
+security vulnerabilities. Instead, the focus will be on fostering community interaction through 
+existing social sharing and commenting features. An in-app messaging system can be considered for 
+future updates once the core functionalities are stable and user engagement is high.
 
