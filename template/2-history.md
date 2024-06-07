@@ -1,56 +1,28 @@
 # History
 
-*Maximum 1 page*
+The v1 Proof of Concept (PoC) build during the semester is a mobile application designed to enhance
+the experience of exploring a city on foot by providing enjoyable walking itineraries around 
+interesting spots. Users can record and share their own walking paths, discover and follow paths 
+created by others, connect with their friends and stay updated with trending routes. They can 
+also download paths for offline usage by adding them to their favorites. The ultimate goal is to 
+transform every trip into a memorable journey shared with the community.
 
-*Describe the V1 POC as planned by Sprint10.*
+From the V1 Proof of Concept we learned several valuable lessons:
 
-The v1 Proof of Concept (PoC) for TripAdvisor build during the semester is a mobile application that 
-allow users to create walking itineraries around interesting spots in a city. The application offers 
-a social and interactive platform where users can record their own paths, add points of interest, 
-and share their recorded paths with other users. It also proposes a following system to enable users 
-to connect with their friends and share their paths with them.
+- **Security and Privacy:** Ensuring the security and privacy of user data (such as email addresses,
+names and birthdays) is crucial for building trust and attractiveness.
+- **User Feedback:** Listening to and addressing user feedback is necessary for maintaining and
+improving the application.
+- **Performance and Responsiveness:** The application must be well-optimized with low response times 
+and a responsive UI that provides up-to-date information to ensure user retention.
+- **User Interface and User Experience:** The application must have a fluid, intuitive and 
+user-friendly interface with consistent color schemes. The UI should adapt to user settings (such as
+font size and dark mode) and different screen sizes to reach a broad user base.
 
-The PoC was designed to enhance the experience of visiting a city by providing users with pleasant 
-walking itineraries around spots of interest.
-
-*What did you learn?*
-
-From the V1 Proof of Concept we learned several valuable lessons.
-
-- Security and Privacy are crucial in an application. TripTracker uses some sensitive information 
-such as email addresses, first and last names and birthdays. This information needs to be kept 
-secure to build trust in application, which is a crucial factor for its attractiveness.
-- In the same idea of boosting attractiveness, it is necessary for us to listen to user feedback on 
-a regular basis. This feedback needs to be discussed and addressed with pertinent updates that 
-tackle the issues raised by users.
-- An app that is not responsive and that feels clunky will have a terrible retention rate of users.
-To ensure that users continue using TripTracker, the app needs to be well-optimized to present low 
-response times when communicating with the database, ensuring short loading times. It also needs to 
-use a responsive UI that presents up-to-date and reliable information.
-- The user interface needs to also be fluid, with transitions to enhance navigation. It needs a well 
-structured color scheme that helps organize information. This color scheme should be consistent 
-across the different screens of the application to make it intuitive for the user. The UI needs to 
-adapt to the user's phone settings (text size or dark mode) and to different screen sizes to reach 
-as many users as possible.
-
-*What is missing to bridge from PoC to MVP?*
-
-The PoC is a great starting point to test the concept and gather feedback from users, but to bridge
-from PoC to MVP, several features need to be added to the application. For example, the way users
-find trips could be improved by adding a functionality that would allows users to input the spots
-they want to visit and an estimation of the time they have to do so, and then they would be 
-provided with some paths satisfying their criteria. It could also be a good idea to add a 
-functionality enabling users to enter the point they want to get to, and the application would
-generate a path to get there by analyzing the paths already present in the database and retrieving
-the pleasant places on the way. Additionally, the application could be improved by adding a more 
-complete way of giving feedback on the paths and the spots visited. We could for example add a way
-to write comments on paths and grade them on a scale of 1 to 5.
-
-On a more technical side, the application could be improved by adding new ways to login. We would
-also need to take the security and privacy of the various data generated in the application more
-seriously. The performance of the application could also be improved by optimizing the way the
-paths are stored and retrieved from the database.
-
-
-
-
+To transition from PoC to MVP, several features need to be added to transition from PoC to MVP, 
+including trip discovery improvements, user feedback integration and enhanced security and privacy 
+measures. Additionally, it's essential to implement ways to modify already recorded paths, and a 
+more complete mechanism to react to other users' paths. Another important enhancement is to make 
+points of interest available outside of recorded paths, allowing users to find interesting spots 
+even if they are not following a path. On a more technical side, the application could also benefit 
+from additional login methods, performance optimizations and data management enhancements.
