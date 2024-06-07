@@ -1,11 +1,5 @@
 # Functional Requirements
 
-_Max 3 pages._
-
-_List the key features of the MVP precisely._
-
-The key features of the MVP are:
-
 ### User registration and login
 
 #### Motivation
@@ -36,7 +30,7 @@ Travelers often seek inspiration and guidance from the experiences of others whe
 
 TripTracker enhances the travel planning experience by allowing users to follow itineraries created by others or by themselves. Users can browse through a diverse collection of itineraries shared within the community and select the ones that interest them. By following an itinerary, users can replicate the travel route and visit the same spots of interest, benefiting from the recommendations and experiences of fellow travelers. This feature adds a social dimension to the app, encouraging users to explore new destinations based on community insights. Within the application, a user can favorite an itinerary to save it for future reference, and when they want to see their favorite itineraries, they can access them in their profile.
 
-### Follow a user : the user can follow another user and see the itineraries created by this user
+### Follow a user
 
 #### Motivation
 
