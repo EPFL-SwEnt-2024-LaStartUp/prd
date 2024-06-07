@@ -58,7 +58,6 @@ profile and start following them !
 
 ## Backend
 
-*Decompose the MVP into functional blocks.*
 **Framework**
 The backend of TripTracker will be implemented thanks to the Firebase suite. The database will use 
 Firestore, and the medias (profile pictures and photos of points of interests) will be stored on the 
