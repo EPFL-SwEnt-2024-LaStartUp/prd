@@ -5,9 +5,9 @@ finding pleasant walking itineraries around interesting spots in a city, while p
 functionality. However, there are several applications that offer functionalities similar to the 
 TripTracker application, but none of them integrates all these features in one place.
 
-First, **Google Maps** allows users to find walking paths between two points and can highlight  
-points of interest. However the walking paths are usually straight forward and not necessarily 
-pleasant as they might be next to heavy traffic roads.
+First, **Google Maps** enables users to find walking routes between two points and highlights points of interest. 
+However, these routes are often designed to be the fastest to get to the desired point, 
+which may result in paths that are not the most enjoyable, as they might pass alongside busy traffic roads.
 
 **TripAdvisor** enables users to find relevant places to visit in a city, but this is not the 
 primary focus of the application. Moreover, it does not offer the ability to find walking itineraries
@@ -15,6 +15,8 @@ around those places.
 
 **Strava** allows its users to share their workout sessions with their friends. However, it is 
 mainly used to record sports activities and lacks a focus on tourism and points of interest.
+
+**Traditional Travel Guides**: Physical travel guides provide detailed information about points of interest and walking routes. However, they are often bulky, quickly outdated, and lack real-time updates. They do not offer personalized itineraries based on user preferences and cannot provide interactive social features.
 
 TripTracker combines these various functionalities into a single application, making it more 
 convenient and user-friendly. It is specially designed to help users find walking itineraries around 
