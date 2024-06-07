@@ -7,7 +7,7 @@ that enhances the way people explore new destinations. By offering a unique comb
 TripTracker stands out from its competitors and provides a defensible value proposition that is 
 relevant to the needs of modern travelers.
 
-The value proposition of TripTracker is **straightforward and easy to communicate**: it helps users 
+The value proposition of TripTracker is straightforward and **easy to communicate**: it helps users 
 find walking itineraries around interesting spots in a city, while enabling them to share their 
 experiences with friends.
 
