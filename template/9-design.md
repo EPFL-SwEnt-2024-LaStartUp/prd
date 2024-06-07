@@ -2,32 +2,58 @@
 
 ## Frontend
 
-*List the key libraries, languages, components used by the MVP.*
-
 **Implementation Framework** 
-The application is developped in Kotlin and utilizes Jetpack Compose, a modern UI toolkit by Google designed for building native Android UIs. This framework integrates seamlessly with the existing Android ecosystem, offering powerful features. Jetpack Compose's seamless integration with Kotlin result in a more readable, and maintainable codebase, guaranteeing a faster development and maintenance of Android applications.
+The application is developed in Kotlin and utilizes Jetpack Compose, a modern UI toolkit by Google
+designed for building native Android UIs. This framework integrates seamlessly with the existing 
+Android ecosystem, offering powerful features. Jetpack Compose's seamless integration with Kotlin 
+results in a more readable, and maintainable codebase, guaranteeing a faster development and easier
+maintenance of Android applications.
 
 **Authentication**
-To authenticate, we use Firebase Authentication,  a powerful and easy-to-use tool for implementing user authentication. It supports various authentication methods including email and password, phone authentication, and other identity providers like Google, Facebook, and Twitter, offering flexibility for different user preferences. It also handles the security aspects of authentication, ensuring that the user credentials are safely stored and managed. 
+For authentication, we use Firebase Authentication, a powerful and easy-to-use tool for implementing 
+user authentication. It supports various authentication methods including email and password, phone 
+authentication, and other identity providers like Google, Facebook, and Twitter, offering 
+flexibility for different user preferences. It also handles the security aspects of authentication,
+ensuring that the user credentials are safely stored and managed. 
 
 **Geocoding** 
-In TripTracker we use Nominatim that is a powerful and efficient geocoding engine provided by OpenStreetMap (OSM). It converts addresses into geographic coordinates. Nominatim provides us with accurate geocoding results and uses detailed data from Open Street Maps. It covers a wide range of locations globally, even in less-populated or remote areas which guarantees us a service available globally.
+In TripTracker we use Nominatim that is a powerful and efficient geocoding engine provided by 
+OpenStreetMap (OSM). It converts addresses into geographic coordinates. Nominatim provides us with 
+accurate geocoding results and uses detailed data from OpenStreetMap. It covers a wide range of 
+locations globally, including less-populated or remote areas, ensuring global service availability.
 
 **Login Screen**
-This is the screen that appears when you first start the app. On this screen, you can login using the different login methods supported by the app. After having successfully logged in, you will be redirected to the Home Screen. This screen will not appear anymore when you start the app while you are still logged in.
+This is the screen that appears when you first start the app. On this screen, you can login using 
+the different login methods supported by the app. After having successfully logged in, you will be 
+redirected to the Home Screen. This screen will not appear again while you are still logged in.
 
 **Home Screen**
-This screen is the main screen of TripTracker, on this screen you can see every other trip that other people created. On this home screen, a list of the itineraries appear, with information about the trip such as its name, its amount of flames and the user that created it. There is a button to add a trip to your favorites, if you wanna save it and be able to view it in offline mode. You can show the trips from everyone or only the trips from the users you follow. There is also a search bar that supports different types of search criterias in order to help you find the Trip that suits you the best. You can also start an itinerary, this will move you to the Map Screen and guide you in order to follow the itinerary.
+This screen is the main screen of TripTracker. On this screen you can see every other trip that 
+other people have created. A list of the itineraries appear, with information about the trip such as 
+its name, number of flames and the user who created it. There is a button to add a trip to your 
+favorites, allowing the user to save it and view it in offline mode. You can show trips from 
+everyone or only from the users you follow. There is also a search bar that supports different 
+search criteria to help you find the Trip that suits you best. You can also start an itinerary, 
+which will move you to the Map Screen and guide you to follow the itinerary.
 
 **Maps Screen**
-On this screen, it is a map that starts at your position. On this map you can see the itineraries of other users. Clicking on an itinerary will show more detailed informations about the trip. And you can decide to follow the trip. 
+On this screen, a map starts at your position. You can see the itineraries of other users. Clicking 
+on an itinerary will show more detailed information about the trip. And you can decide to follow the 
+trip. 
 
 **Record Screen**
-This screen is a map on which you cannot see the other users itineraries. You can start recording your trip from this screen thanks to the record button. You can decide to put some points of interests along your recorded trips. You can give a descrition to these points of interest and add pictures. This points of interests will show up in the itinerary preview and details.
+This screen is a map on which you cannot see the itineraries of other users. You can start recording 
+your trip from this screen using the record button. You can add points of interests along your 
+recorded trips, give descriptions to these points of interest and add pictures. These points of 
+interests will show up in the itinerary preview and details.
 
 **Profile Screen**
-The profile screen is the place where you can find all the informations about yourself and others. In this screen you can edit your profile, modify your pseudonym, your profile picture. You can also edit your privacy settings in order to manage who is allowed to see your trips and your profile. You can also find your saved trips, the trips you created, your followers and the persons you are following. You can also access the friend finder that will allow you to find your friend's profile in order to follow them !
-
+The profile screen is where you can find all the informations about yourself and others. In this 
+screen, you can edit your profile, modify your username and update your profile picture. You can 
+also edit your privacy settings to manage who is allowed to see your trips and your profile. 
+Additionally, you can find your saved trips, the trips you created, your followers and the persons 
+you are following. You can also access the friend finder that will allow you to find your friend's 
+profile and start following them !
 
 
 ## Backend
