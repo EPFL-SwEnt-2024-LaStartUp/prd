@@ -8,6 +8,10 @@ areas for improvement to enhance the overall user experience and increase user s
 
 The key metrics to track for analyzing the success of the application are:
 
+- **User penetration:** Track the number of downloads and installations of the app across different
+platforms (iOS, Android). This helps us understand user interest and app performance in terms of
+acquisition.
+
 - **User engagement:** Track the number of unique users engaging with the app daily, monthly and 
 yearly. This helps us understand active user counts and usage frequency. Additionally, records the 
 average session duration, and the number of sessions per user per day, week, month and year.
@@ -33,26 +37,9 @@ understand satisfaction levels. Identify key points needing changes and function
 users the most. This helps us understand how satisfied users are with the app and identify potential
 improvements to increase user satisfaction.
 
-
-To evaluate the success of the application, we will consider the following criteria:
-
-- **User penetration:** Achieve at least 1,000 downloads in the first month and 100,000 downloads in 
-the first six months. This helps us understand user interest and app performance in terms of 
-acquisition.
-
-- **User engagement:** Aim for 20% of users creating and following itineraries monthly. Ensure an 
-average session duration of at least 5 minutes and at least two sessions per user per week. This 
-helps us gauge active usage and content engagement.
-
-- **User satisfaction:** Aim for a user rating of at least 4 out of 5 on the app store. This helps 
-us understand user satisfaction and identify potential improvements..
-
-- **User retention:** Aim for a 50% return rate in the first month and 70% in the first year. This 
-helps us understand retention over time and identify areas for improvement.
-
-- **Partnership:** Establish at least one partnership with a major travel or review platform in the 
-first year. This helps increase app visibility and user base while validating the TripTracker 
-concept's relevance and value.
+- **Partnership:** Establish diverse partnerships to increase app visibility and user base. Monitor
+the number of users acquired through partnerships and the impact of these partnerships on app
+performance.
 
 
 # Analysis Plan
