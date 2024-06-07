@@ -26,7 +26,7 @@ have your current path displaying on the map, and to save it with a description.
 
 | **Sprint/Week Number** | **Objective** | **Outcomes** |
 | --- | --- | --- |
-| Week 1 | Kickoff, Setup & Design | Establish MVP scop and planning. Set up project tools (Android Studio, GitHub, SonarCloud, Firebase and Figma). Initial wireframes and screen designs on Figma. Configure the Google Auth.  |
+| Week 1 | Kickoff, Setup & Design | Establish MVP scope and planning. Set up project tools (Android Studio, GitHub, SonarCloud, Firebase and Figma). Initial wireframes and screen designs on Figma. Configure the Google Auth.  |
 | Week 2 | Application Skeleton | Implement the in-app navigation, the initial backend & frontend for the main tabs: Home, Maps, Record & Profile screens. |
 | Week 3 | Interactions with Database & Functional Release APK  | Complete UI/UX designs, implement Firebase data integration, have path record feature, update UI per visual chart, and write unit tests. Build the APK. |
 
