@@ -91,22 +91,22 @@ follow and that new paths are regularly added. Without this feature, the applica
 a simple navigation tool and paths would not be user-generated, removing the community aspect that 
 is a strength of the application.
 
+- **Social interaction:**
+Users can connect with other users by following them and stay updated with the latest paths they
+have recorded. The social interaction feature is important as it adds a community aspect to the
+application. It allows users to share their experiences with friends and family and discover new
+paths created by them. By allowing users to add other users' paths to their favorites, the
+application creates even more interactions between users and ensures widespread usage. Users can log
+in to TripTracker with their Google account and create a personalised profile with a profile picture,
+username, and other options. They can then look up their friends' profiles and start following them.
+By connecting with their friends, users can easily stay updated with the latest paths created by
+their friends and share their own paths with them.
+
 - **Offline access:** 
 Users can download the paths they like by adding them to their favorites, allowing them to follow 
 the paths even when they are offline. The offline access feature is important as travelers might not 
 have access to the internet all the time. This feature ensures that users can view the paths they 
 have saved offline and enjoy their trip without worrying about having an internet connection.
-
-- **Social interaction:** 
-Users can connect with other users by following them and stay updated with the latest paths they
-have recorded. The social interaction feature is important as it adds a community aspect to the 
-application. It allows users to share their experiences with friends and family and discover new 
-paths created by them. By allowing users to add other users' paths to their favorites, the 
-application creates even more interactions between users and ensures widespread usage. Users can log 
-in to TripTracker with their Google account and create a personalised profile with a profile picture, 
-username, and other options. They can then look up their friends' profiles and start following them. 
-By connecting with their friends, users can easily stay updated with the latest paths created by 
-their friends and share their own paths with them.
 
   
 ## Success Criteria
