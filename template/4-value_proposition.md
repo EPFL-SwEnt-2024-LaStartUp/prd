@@ -10,25 +10,33 @@ relevant to the needs of modern travelers.
 The value proposition of TripTracker is straightforward and easy to communicate: it helps users find 
 walking itineraries around interesting spots in a city, while enabling them to share their 
 experiences with friends.
+<br/>
 
-TripTracker's value proposition is defensible because it combines several unique features into one 
+Modern travelers seek a convenient, all-in-one solution that combines navigation, discovery of points of interest, and social sharing. They prefer a mobile application that can be accessed on the go, without the need for multiple platforms or physical guides.
+
+
+TripTracker's value proposition is thus defensible because it combines many unique features into one 
 platform and no competitor offers the same combination of functionalities. While other applications 
 may provide navigation or points of interest, or social sharing, TripTracker integrates all these 
-features in a unique and easy-to-use application. 
+features seamlessly, in a unique and easy-to-use application. 
 
 Additionally, by continuously integrating user 
 feedback and improving the app's features, TripTracker can maintain its competitive edge and ensure 
 long-term user engagement.
 
 The value proposition is highly relevant as people visiting cities seek meaningful and enjoyable 
-experiences. They are looking for ways to find hidden gems and local spots beyond typical tourist 
-attractions, and this without any overhead. TripTracker addresses this need by offering curated 
-walking paths and the ability to share personal experiences with a community dedicated to exploring.
+experiences. Users are looking for ways to find hidden gems and local spots beyond typical tourist 
+attractions, and this without any overhead. They want walking routes that are not only efficient 
+but also pleasant and pedestrian-friendly. They prefer paths that avoid heavy traffic roads and instead highlight scenic, 
+safe, and interesting areas. TripTracker addresses this need by offering curated walking paths and the ability to share personal 
+experiences with a community dedicated to exploring.
 
 Furthermore, with the trending functionalities, users can discover new paths and stay updated with 
 the latest routes, making the app a valuable tool for both tourists and locals. Additionally, when 
 looking for paths, other applications often propose straightforward routes that can be unpleasant as 
 they do not take advantage of potential pedestrian areas. 
+
+TripTracker guarantees reliable offline access to saved itineraries, as it is crucial for travelers who may not always have internet connectivity. Users want to ensure that they can navigate and enjoy their trips without worrying about network availability.
 
 Moreover, the paths that the TripTracker application proposes to its users have a ranking system: 
 the flame count of a path is computed based on the number of users who view the path, the number of 
