@@ -34,7 +34,7 @@ have your current path displaying on the map, and to save it with a description.
 
 Advancements on Core Feature
 
-- Development of a major epic: the Profile feature with the possibility to follow your friends, to 
+- Development of a major epic: the Profile feature, with the possibility to follow your friends, to 
 have favorites and your own path, and to change your profile information or parameters.
 - Continued integration and unit testing.
 
@@ -71,14 +71,8 @@ Launch and iterative feature development for Product-Market Fit (PMF)
 | Week 10 | Full Deployment | Final tweaks and polishing. Launch marketing campaign (video and infographic elements), engage with press with a live keynote demonstrating the app to get new users. |
 
 ## Hardware Requirements during Development
+
 The members from the TripTracker project develop, test, and execute the project on their own laptops. 
 A minimum of 16GB of RAM (to run Android Studio), 50GB of available storage (Android Studio, Android 
 SDK, emulator system images, etc.) on SSD or better, and WiFi are required. An Android phone capable 
 of demo-ing the team's application is also useful for on-the-go testing and presentation purposes.
-
-
-*What’s the overall schedule you’re working towards?*
-*What are the intermediate milestones?*
-*List identified sprints*
-*What resources are required?*
-
