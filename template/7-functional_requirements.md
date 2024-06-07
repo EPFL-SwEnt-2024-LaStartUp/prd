@@ -1,7 +1,5 @@
 # Functional Requirements
 
-The key features of the MVP are:
-
 ### User registration and login
 
 #### Motivation
