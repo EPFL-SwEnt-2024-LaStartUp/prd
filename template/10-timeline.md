@@ -4,7 +4,7 @@
 ## Execution Roadmap
 
 The MVP development process is structured into 10 sprints, each lasting one week. Key tasks include 
-project setup, development, testing, feedback incorporation, product pitching & advertising, and 
+project setup, development, testing, product pitching & advertising, and 
 feedback collection & response. Additionally, we have identified four major milestones to help our 
 team of seven assess progress. Each team member rotates through various roles, including UI/UX 
 designer (using Figma), frontend developer, backend developer, DevOps architect, software tester, 
