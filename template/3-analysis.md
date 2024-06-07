@@ -23,7 +23,7 @@ updates. They do not offer personalized itineraries based on user preferences an
 interactive social features.
 
 TripTracker combines these various functionalities into a single application, making it more 
-convenient and user-friendly. It is specially designed to help users find walking itineraries around 
+convenient and user-friendly. Especially, it is designed to help users find walking itineraries around 
 interesting spots in a city, while also enabling them to share their experiences with their friends. 
 The integration of features into one cohesive platform sets TripTracker apart from its competitors.
 

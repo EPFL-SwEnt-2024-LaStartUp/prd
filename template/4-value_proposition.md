@@ -8,15 +8,14 @@ TripTracker stands out from its competitors and provides a defensible value prop
 relevant to the needs of modern travelers.
 
 The value proposition of TripTracker is straightforward and **easy to communicate**: it helps users 
-find walking itineraries around interesting spots in a city, while enabling them to share their 
+find walking itineraries around the captivating areas of a city, while enabling them to share their 
 experiences with friends.
 
 
-Modern travelers seek a convenient, all-in-one solution that combines navigation, discovery of 
-points of interest, and social sharing. They prefer a mobile application that can be accessed on the 
+Besides the navigation, modern travelers seek a convenient, all-in-one solution that combines discovery of points of interest and social sharing. They prefer a mobile application that can be accessed on the 
 go, without the need for multiple platforms or physical guides.
 
-TripTracker's value proposition is thus **defensible** because it combines many unique features into one 
+TripTracker's value proposition is thus **defensible** because it merges many unique features into one 
 platform and no competitor offers the same combination of functionalities. While other applications 
 may provide navigation or points of interest, or social sharing, TripTracker integrates all these 
 features seamlessly, in a unique and easy-to-use application. 
@@ -33,7 +32,7 @@ curated walking paths and the ability to share personal experiences with a commu
 exploring.
 
 Furthermore, with the trending functionalities, users can discover new paths and stay updated with 
-the latest routes, making the app a valuable tool for both tourists and locals. Additionally, when 
+the latest routes, making the app a valuable tool for both tourists and locals. Furthermore, when 
 looking for paths, other applications often propose straightforward routes that can be unpleasant as 
 they do not take advantage of potential pedestrian areas. 
 
@@ -45,5 +44,5 @@ Moreover, the paths that the TripTracker application proposes to its users have 
 the flame count of a path is computed based on the number of users who view the path, the number of 
 times the path is added to favorites, and the number of times the path is started. On the main 
 screen of the application, the paths are sorted by their flame count, so the most popular paths are 
-at the top of the list. This way, users can easily find the most popular paths and the most pleasant 
-paths.
+at the top of the list. This way, users can easily find the most popular and the most pleasant 
+itineraries.

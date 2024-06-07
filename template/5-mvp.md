@@ -2,17 +2,17 @@
 
 ## Personas and Scenarios
 
-The TripTracker application aims to target both tourists and locals who want to explore a city by 
+The TripTracker application aims to target both tourists and locals who want to explore a city on 
 foot, without having to search for hours for the best walking itineraries. Additionally, the 
 application also targets professionals such as city managers or local business owners who want to 
 promote their city. Tourist offices, museums and other local businesses could use the application to 
 create and share walking itineraries around interesting spots in the city to attract more tourists 
-and locals, thereby bringing more visibility to their city.
+and locals, thereby bringing more visibility to their lovely city.
 
 The key persona for the TripTracker application is the tourist who will follow paths. Tourists are 
 the ones who are more likely to look for pleasant walking itineraries and local places of interest 
 when visiting a city they have never been to before. They are also more likely to share their 
-experiences with friends and family to keep them updated on their trips or simply to keep a memory 
+experiences with friends and family to keep them updated on their trips, or simply to keep a memory 
 of their trips.
 
 
@@ -38,9 +38,9 @@ tourists and professionals:
   businesses or the city to attract more tourists and locals.
 
 - **Share:**
-    - Once they have recorded an itinerary, the tourists can publish it on the application. They 
+    - Once the itinerary recorded, the tourists can publish it on the application. They 
   will talk about TripTracker to their friends and family and motivate them to download the 
-  application to share the paths they have recorded. 
+  application to share the paths they recorded. 
     - Professionals will also share the application with other professionals to promote their city 
   and their businesses, thereby attracting more tourists and locals.
 
@@ -72,8 +72,7 @@ Users can easily find walking itineraries around interesting spots around them o
 specified location. The path discovery feature is essential as it is the main functionality of the 
 application. The goal is to provide users with enjoyable walking itineraries around interesting 
 spots in a city without having to search for hours for the best paths, ensuring they make the most 
-of their trips. On the main screen of the application, the paths are sorted by their flame count, so 
-the most popular paths are at the top and can easily be found by users. This way, users can easily 
+out of their trips. On the main screen of the application, the paths are sorted by their flame count, so the most popular paths are at the top and can easily be found by users. This way, users can easily 
 follow the most popular and pleasant paths. Users also have the possibility to discover the paths 
 published by their friends to stay updated with their latest routes.
 
@@ -83,7 +82,7 @@ They simply start recording the itinerary when they begin walking, and can easil
 interest with descriptions and photos along the way. Once they are done recording the path, they
 can add a title and description to it and publish it on the application. Users can then decide 
 whether they want to share their recorded paths with all users of the application, just with their 
-friends, or keep them private by selecting the desired option in the settings. Path recording is 
+friends, or keep them private by selecting the desired privacy option in the settings. Path recording is 
 important as it enables users to keep a memory of their trips, making it enjoyable to look back on 
 their experiences. Additionally, it allows users to follow the same path again if they wish to 
 revisit their favorite spots. Path sharing ensures the application features many possible paths to 
@@ -106,7 +105,7 @@ their friends and share their own paths with them.
 Users can download the paths they like by adding them to their favorites, allowing them to follow 
 the paths even when they are offline. The offline access feature is important as travelers might not 
 have access to the internet all the time. This feature ensures that users can view the paths they 
-have saved offline and enjoy their trip without worrying about having an internet connection.
+have saved offline and enjoy their trip without worrying about having an internet connection. They also have the possibility to edit their profile information.
 
   
 ## Success Criteria
@@ -166,8 +165,7 @@ The MVP of TripTracker will not include advanced AR features such as live naviga
 augmented reality tours. Developing and integrating AR functionality requires significant resources 
 and advanced technical expertise, which could delay the launch. Additionally, AR features might 
 necessitate specific hardware capabilities, potentially limiting the app's compatibility across 
-different devices. These features will be considered for future updates once the basic 
-functionalities have been successfully deployed and user feedback has been gathered.
+different devices. These features will be considered for future updates once the basic functionalities have been successfully deployed and user feedback has been gathered.
 
 ### Exclusion of In-App Messaging System
 

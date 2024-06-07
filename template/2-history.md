@@ -1,6 +1,6 @@
 # History
 
-The v1 Proof of Concept (PoC) build during the semester is a mobile application designed to enhance
+The v1 Proof of Concept (PoC) built during the semester is a mobile application designed to enhance
 the experience of exploring a city on foot by providing enjoyable walking itineraries around 
 interesting spots. Users can record and share their own walking paths, discover and follow paths 
 created by others, connect with their friends and stay updated with trending routes. They can 
@@ -19,9 +19,8 @@ and a responsive UI that provides up-to-date information to ensure user retentio
 user-friendly interface with consistent color schemes. The UI should adapt to user settings (such as
 font size and dark mode) and different screen sizes to reach a broad user base.
 
-To transition from PoC to MVP, several features need to be added to transition from PoC to MVP, 
-including trip discovery improvements, user feedback integration and enhanced security and privacy 
-measures. Additionally, it's essential to implement ways to modify already recorded paths, and a 
+To transition from PoC to MVP, several features need to be added, including trip discovery improvements, user feedback integration and enhanced security and privacy 
+measures. Additionally, it is essential to implement ways to modify already recorded paths, and a 
 more complete mechanism to react to other users' paths. Another important enhancement is to make 
 points of interest available outside of recorded paths, allowing users to find interesting spots 
 even if they are not following a path. On a more technical side, the application could also benefit 

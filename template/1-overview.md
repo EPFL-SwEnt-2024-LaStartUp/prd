@@ -7,7 +7,7 @@ and stay updated with trending routes.
 It's the ultimate travel companion that turns every trip into a memorable journey shared with the 
 community!**
 
-The TripTracker application goal is to simplify the way people explore places on foot. By providing 
+The TripTracker application's goal is to simplify the way people explore places on foot. By providing 
 users with enjoyable walking itineraries around interesting spots, this application ensures that 
 users make the most of their trips. The application also allows users to record their own paths as 
 they walk. They can upload photos and descriptions of the spots they visit along the way, and when 
@@ -26,12 +26,12 @@ the paths they have saved offline and enjoy their trip without worrying about an
 In the future, our application will eliminate the need for traditional paper travel guides. With 
 TripTracker, discovering a new city becomes effortless. Simply pull out your phone, launch the app, 
 and instantly receive personalized recommendations for the best spots around you, tailored to your 
-interests. No preparation needed just immediate, curated advice for the activities you love. 
+interests. No preparation needed, just immediate, curated advice for the activities you love. 
 
 Every notable point of interest in a city will be highlighted with user-contributed photos and 
-enriched with detailed descriptions. You'll be able to learn about the architecture, history, and 
+enriched with detailed descriptions. You will be able to learn about the architecture, history, and 
 fascinating facts, making your exploration both informative and engaging. But points of interest 
-aren't limited to monuments. You'll also find information about the best bars in town, top local 
+aren't limited to monuments. You will also find information about the best bars in town, top local 
 snacks, and more. All this with ratings to ensure you don't miss out on anything.
 
 TripTracker will revolutionize the way you explore a city. Whether you're looking for the best 
