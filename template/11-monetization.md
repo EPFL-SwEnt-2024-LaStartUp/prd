@@ -3,6 +3,7 @@
 ## Expected Operating Costs
 
 ### Development Costs
+
 - **Initial App Development and Design:**
   - The initial development was completed as part of a course on software development at EPFL. 
   This included contributions from students using provided tools and software licenses.
@@ -14,6 +15,7 @@
   - **Testing:** Ongoing testing to ensure new updates are stable and meet user expectations.
 
 ### Infrastructure Costs
+
 - **Hosting Services:**
   - **Firebase Costs:** Firebase provides database services, hosting, and authentication. Costs will 
   scale based on usage, including storage and real-time database reads/writes.
@@ -27,6 +29,7 @@
   reliability and support.
 
 ### Marketing and User Acquisition
+
 - **Digital Marketing Campaigns:**
   - **Social Media Advertising:** Budget for ads on platforms like Facebook, Instagram, and Twitter 
   to attract new users.
@@ -41,6 +44,7 @@
   and responding to reviews to boost visibility and downloads.
 
 ### Operational Costs
+
 - **Customer Support and Service:**
   - **Support Staff:** Salaries for support team members who handle user issues and queries.
   - **Support Tools:** Platforms for managing customer support tickets, live chat, and user feedback.
@@ -51,6 +55,7 @@
   associated overheads.
 
 ### Content and Community Management
+
 - **Moderation of User-Generated Content:**
   - **Moderators:** Hiring and training moderators to review user submissions, ensuring they meet 
   quality standards and community guidelines.
@@ -60,9 +65,10 @@
   - **Management Tools:** Platforms for managing community interactions and fostering engagement.
 
 ### Other Costs
+
 - **Compliance with Data Privacy Regulations:**
   - **Legal Consultations:** Ongoing legal advice to ensure compliance with data privacy regulations 
-  like GDPR and CCPA.
+  like GDPR and LDP.
   - **Security Measures:** Implementing and maintaining robust security measures to protect user data.
 - **Regular Updates Based on User Feedback:**
   - **User Research:** Continuous research to gather feedback and identify areas for improvement.
